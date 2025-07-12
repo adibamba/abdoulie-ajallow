@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Abdoulie .A. Jallow
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)  
+ 
 🎯 **Cloud Engineer|Microsoft365/Azure Specialist** | 🌍 Rome, Italy  
 🔐 Architecting secure, high-performance cloud solutions  
 📘 MSc Student – Mathematical Engineering (Scientific Computing & Applications)
